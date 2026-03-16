@@ -1,0 +1,13 @@
+{
+  "changes": [
+    {
+      "id": "48e71fbd",
+      "record_id": "38e25a10",
+      "old_amount": 0,
+      "new_amount": 32000.0,
+      "change": 32000.0,
+      "note": "初始录入",
+      "changed_at": "2026-03-16 17:00:40"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "platforms": [
+    {
+      "id": "alipay",
+      "name": "支付宝",
+      "icon": "💳"
+    },
+    {
+      "id": "wechat",
+      "name": "微信",
+      "icon": "💚"
+    },
+    {
+      "id": "icbc",
+      "name": "工商银行",
+      "icon": "🏦"
+    },
+    {
+      "id": "ccb",
+      "name": "建设银行",
+      "icon": "🏛️"
+    },
+    {
+      "id": "citic",
+      "name": "中信证券",
+      "icon": "📈"
+    },
+    {
+      "id": "cash",
+      "name": "现金",
+      "icon": "💵"
+    }
+  ],
+  "channel_types": [
+    {
+      "id": "checking",
+      "name": "活期"
+    },
+    {
+      "id": "fixed",
+      "name": "定期"
+    },
+    {
+      "id": "fund",
+      "name": "理财"
+    },
+    {
+      "id": "stock",
+      "name": "股票"
+    },
+    {
+      "id": "other",
+      "name": "其他"
+    }
+  ]
+}

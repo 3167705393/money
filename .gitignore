@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 数据文件 (可选择是否上传)
+# data/
+
+# OS
+.DS_Store
+Thumbs.db

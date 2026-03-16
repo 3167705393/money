@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "id": "38e25a10",
+      "platform_id": "alipay",
+      "channel_type": "fund",
+      "amount": 32000.0,
+      "note": "",
+      "created_at": "2026-03-16",
+      "updated_at": "2026-03-16"
+    }
+  ]
+}
